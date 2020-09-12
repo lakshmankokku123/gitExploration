@@ -10,13 +10,15 @@ public class SinglyLinkedListConcept {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//NEW CHANGE FOR GIT 
+		
 		LinkedList<String> ll= new LinkedList<String>();
 		LinkedList<Integer>il= new LinkedList<Integer>();
 		il.add(99);
 		il.add(63);
 		il.add(30);
 		il.add(56);
-		il.add(53);
+		il.add(100);
 		
 		System.out.println("the value of array elements is " +il);
 		
